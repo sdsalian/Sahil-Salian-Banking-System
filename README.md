@@ -1,2 +1,2 @@
-# Sahil-Salian-Banking-System
-Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers .
+# The-Sparks-Foundation-Basic-Banking-System-Internship-Project
+I was supposed to create a basic banking website for the Sparks Foundation as an internship project.
